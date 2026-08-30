@@ -1,2 +1,3 @@
-# 33-daily-dist
-Public release feed for 33-daily ad-hoc (EAS internal distribution) builds. No source.
+# 33-daily — ad-hoc update feed
+
+This repository exists for one file: `adhoc.json`, the update manifest that installed ad-hoc copies of 33-daily poll. Those copies are EAS internal-distribution builds, so they install only on devices already registered to the developer's Apple provisioning profile — a link from here will not install on anything else. The manifest advertises the latest ad-hoc build (version, build number, and its EAS build page) so an installed copy can offer the update in-app instead of waiting for a link to be passed around. The app's source lives in the private repository `farazkhalid/33osv1`; there is no source, no releases, and no support here.
