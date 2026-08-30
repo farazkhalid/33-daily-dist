@@ -1,0 +1,9 @@
+{
+  "schema": "33-daily.adhoc-manifest.v1",
+  "version": "0.1.0",
+  "buildNumber": 35,
+  "buildId": "70bb1950-4290-47e9-baaa-a3019aa495d3",
+  "installUrl": "https://expo.dev/accounts/farazkhalid/projects/macro-log/builds/70bb1950-4290-47e9-baaa-a3019aa495d3",
+  "notes": "First manifest-aware ad-hoc build.",
+  "releasedAt": "2026-08-30T04:58:39Z"
+}
