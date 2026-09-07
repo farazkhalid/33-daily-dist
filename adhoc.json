@@ -1,9 +1,9 @@
 {
   "schema": "33-daily.adhoc-manifest.v1",
   "version": "0.1.0",
-  "buildNumber": 36,
-  "buildId": "3abeb167-9b5c-45e4-9f54-6c9be31e58b5",
-  "installUrl": "https://expo.dev/accounts/farazkhalid/projects/macro-log/builds/3abeb167-9b5c-45e4-9f54-6c9be31e58b5",
-  "notes": "Intelligent quick-log suggestion deck",
-  "releasedAt": "2026-09-06T03:38:38Z"
+  "buildNumber": 40,
+  "buildId": "034a192a-2360-41a5-9e71-562ad64c8478",
+  "installUrl": "https://expo.dev/accounts/farazkhalid/projects/macro-log/builds/034a192a-2360-41a5-9e71-562ad64c8478",
+  "notes": "Complete-day trends and fill-in prompts",
+  "releasedAt": "2026-09-07T09:32:40Z"
 }
